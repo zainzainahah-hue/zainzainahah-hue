@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Zain! 👋
 
-<!--
-**zainzainahah-hue/zainzainahah-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Engineering Student at Damascus University
+I am a passionate software developer currently focusing on mastering OOP and building practical applications in C++ and Java.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills:
+- Languages: C++, Java ,HTML/CSS.
+- Tools: Visual Studio, Code::Blocks, Git & GitHub.
+- Interests: Electrical Circuits, Physics, and Software Architecture.
+
+---
+
+### 📊 My Projects:
+- [Bank Account System](https://github.com/zainzainahah-hue/Bank-Account-OOP): A C++ project demonstrating core OOP principles.
+- [Client Management System](https://github.com/zainzainahah-hue/Main): A C++ application for managing client data.
+
+---
+
+### ⚡ Fun Fact:
+When I'm not coding, you'll probably find me at the gym 🏋️‍♂️ or playing Minecraft.
