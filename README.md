@@ -14,8 +14,7 @@ I am a passionate software developer currently focusing on mastering OOP and bui
 
 ء### 📊 My Projects:
 - [Bank Account System](https://github.com/zainzainahah-hue/Bank-Account-OOP): A C++ project demonstrating core OOP principles.
-- [Client Management System](https://github.com/zainzainahah-hue/Client-Management-System): A C++ application for managing client data.
-
+- [Client Management System](https://github.com/zainzainahah-hue/Client---Mangment--System)
 ---
 
 ### ⚡ Fun Fact:
